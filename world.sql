@@ -29,4 +29,4 @@ CREATE TABLE `user_info` (
 -- ----------------------------
 -- Records of user_info
 -- ----------------------------
-INSERT INTO `user_info` VALUES ('1', 'xiaour', '1231');
+INSERT INTO `user_info` VALUES ('1', 'zpshowhan', '97');
